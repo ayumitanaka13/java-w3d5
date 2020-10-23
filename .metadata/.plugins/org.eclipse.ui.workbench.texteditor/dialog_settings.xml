@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="selection" value="tempRecord"/>
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<list key="findhistory">
+			<item value="tempAccount"/>
+			<item value="accounts"/>
+			<item value="BankAccount"/>
+			<item value="AccountNumber"/>
+			<item value="monthCreatedAccount"/>
+			<item value="yearCreateAccount"/>
+			<item value="balance"/>
+			<item value="customerName"/>
+		</list>
+		<list key="replacehistory">
+			<item value="tempRecord"/>
+			<item value="records"/>
+			<item value="Record"/>
+			<item value="Id"/>
+			<item value="recordRanking"/>
+			<item value="recordLength"/>
+			<item value="singerName"/>
+			<item value="recordTitle"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="-11"/>
+		<item key="DIALOG_Y_ORIGIN" value="297"/>
+		<item key="DIALOG_WIDTH" value="294"/>
+		<item key="DIALOG_HEIGHT" value="408"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>
